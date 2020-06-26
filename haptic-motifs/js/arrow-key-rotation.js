@@ -1,4 +1,4 @@
-FRAME.registerComponent('arrow-key-rotation', {
+AFRAME.registerComponent('arrow-key-rotation', {
   schema: {
     enabled: {default: true},
     dx: {default: 2.0},
