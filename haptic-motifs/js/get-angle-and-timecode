@@ -1,0 +1,10 @@
+AFRAME.registerComponent('get-angle-and-timecode', {
+  init: function () {
+    var myElement = document.getElementById("video");
+    console.log('Heyo!');
+  }
+  
+  update: function () {
+    console.log(myElement.currentTime);
+  }
+});
