@@ -5,6 +5,7 @@ AFRAME.registerComponent('arrow-key-rotation', {
     dy: {default: 2.0},
   },
   init: function () {
+    console.log('Hello, World!');
     this.onKeyDown = this.onKeyDown.bind(this);
     this.onKeyUp = this.onKeyUp.bind(this);
     this.directionX = 0;
