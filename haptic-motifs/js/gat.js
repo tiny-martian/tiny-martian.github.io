@@ -1,6 +1,6 @@
-AFRAME.registerComponent('get-angle-and-timecode', {
+AFRAME.registerComponent('gat', {
   init: function () {
-    console.log('Heyo!');
+    console.log('Hello, World!');
   }
   
   tick: function (time, timeDelta) {
