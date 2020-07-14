@@ -36,6 +36,8 @@ AFRAME.registerComponent('arrow-key-rotation', {
     }          
   },
   tick: function (t, dt) {
+    var myElement = document.getElementById("video");
+    console.log(myElement.currentTime);
     if (!this.data.enabled) { return; }
     var rotation = this.el.getAttribute('rotation');
     if (!rotation) { return; }
