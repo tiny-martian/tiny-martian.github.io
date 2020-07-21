@@ -39,38 +39,7 @@
 
   <script src="./dist/app.js"></script>
   <script>
-    const serialLEDController = new SerialLEDController();
-    const connect = document.getElementById('connect-to-serial');
-    const getSerialMessages = document.getElementById('get-serial-messages');
-    /*
-    const messageForm = document.getElementById('message-form');
-    const messageInput = document.getElementById('message-input');
-    const submitButton = document.getElementById('submit-button');*/
-    const serialMessagesContainer = document.getElementById('serial-messages-container');
-  
-
-    connect.addEventListener('pointerdown', () => {
-      serialLEDController.init();
-
-      serialMessagesContainer.removeAttribute('disabled');
-      //messageInput.removeAttribute('disabled');
-      //submitButton.removeAttribute('disabled');
-    });
-
-    /* This is where messages are sent from the input field to the Arduino
-    messageForm.addEventListener('submit', event => {
-      event.preventDefault();
-      serialLEDController.write(event.target.firstElementChild.value);
-      getSerialMessage();
-    }); */
-
-    getSerialMessages.addEventListener('pointerdown', async () => {
-      getSerialMessage();
-    });
-
-    async function getSerialMessage() {
-      serialMessagesContainer.innerText += await serialLEDController.read() + '\n';
-    }
+    
 
   </script>
     
