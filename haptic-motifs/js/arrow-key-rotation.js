@@ -36,8 +36,11 @@ AFRAME.registerComponent('arrow-key-rotation', {
     }          
   },
   tick: function (t, dt) {
+    /* Send Timecode to Arduino */
     var myElement = document.getElementById("video");
-    console.log(myElement.currentTime);
+    //console.log(myElement.currentTime);
+    serialLEDController.write(myElement.currentTime);
+    
     if (!this.data.enabled) { return; }
     var rotation = this.el.getAttribute('rotation');
     if (!rotation) { return; }
