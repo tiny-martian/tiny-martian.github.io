@@ -4,6 +4,39 @@ AFRAME.registerComponent('arrow-key-rotation', {
     dx: {default: 2.0},
     dy: {default: 2.0},
   },
+  
+  const serialLEDController = new SerialLEDController();
+    const connect = document.getElementById('connect-to-serial');
+    const getSerialMessages = document.getElementById('get-serial-messages');
+    /*
+    const messageForm = document.getElementById('message-form');
+    const messageInput = document.getElementById('message-input');
+    const submitButton = document.getElementById('submit-button');*/
+    const serialMessagesContainer = document.getElementById('serial-messages-container');
+  
+
+    connect.addEventListener('pointerdown', () => {
+      serialLEDController.init();
+
+      serialMessagesContainer.removeAttribute('disabled');
+      //messageInput.removeAttribute('disabled');
+      //submitButton.removeAttribute('disabled');
+    });
+
+    /* This is where messages are sent from the input field to the Arduino
+    messageForm.addEventListener('submit', event => {
+      event.preventDefault();
+      serialLEDController.write(event.target.firstElementChild.value);
+      getSerialMessage();
+    }); */
+
+    getSerialMessages.addEventListener('pointerdown', async () => {
+      getSerialMessage();
+    });
+
+    async function getSerialMessage() {
+      serialMessagesContainer.innerText += await serialLEDController.read() + '\n';
+    }
   init: function () {
     console.log('Hello, World!');
     this.onKeyDown = this.onKeyDown.bind(this);
