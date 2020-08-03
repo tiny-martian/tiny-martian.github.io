@@ -11,6 +11,7 @@ Archive of progress blog posts:
 * [Progress Post #1](./hmpp1.md)
 * [Progress Post #2](./hmpp2.md)
 * [Progress Post #3](./hmpp3.md)
+* ["Interaction is Problematic": ICIDS 2019 Update] (./hmpp03.md)
 * [Progress Post #4](./hmpp4.md)
 * [Progress Post #5](./hmpp5.md)
 * [Progress Post #6](./hmpp6.md)
