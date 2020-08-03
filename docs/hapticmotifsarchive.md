@@ -11,7 +11,7 @@ Archive of progress blog posts:
 * [Progress Post #1](./hapticmotifs/hmpp1.md)
 * [Progress Post #2](./hapticmotifs/hmpp2.md)
 * [Progress Post #3](./hapticmotifs/hmpp3.md)
-* ["Interaction is Problematic": ICIDS 2019 Update] (./hapticmotifs/hmppicids.md)
+* ["Interaction is Problematic": ICIDS 2019 Update](./hapticmotifs/hmppicids.md)
 * [Progress Post #4](./hapticmotifs/hmpp4.md)
 * [Progress Post #5](./hapticmotifs/hmpp5.md)
 * [Progress Post #6](./hapticmotifs/hmpp6.md)
