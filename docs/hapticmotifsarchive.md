@@ -2,7 +2,7 @@ How can 360* video become more engaging to audiences through the use of nonconve
 
 Archive of progress blog posts:
 
-* [Introduction](./hmpages/hmpp0.md)
+* [Introduction](./hmdocs/hmpp0.md)
 * [Progress Post #1]
 * [Progress Post #2]
 * [Progress Post #3]
