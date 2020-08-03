@@ -1,3 +1,5 @@
+# Haptic Motifs Progress Post 2
+
 *October 21, 2019: After the last two months of reading papers and thinking about unconventional and tangible input devices for virtual environments, I'm getting a sense of some interesting directions to follow in my own project.*
 
 After the last two months of reading papers and thinking about unconventional and tangible input devices for virtual environments, I’m getting a sense of some interesting directions to follow in my own project. Here are a few!
