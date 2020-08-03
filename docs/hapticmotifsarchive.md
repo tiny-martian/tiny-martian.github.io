@@ -8,15 +8,16 @@ Due to some logistical complications from COVID-19 and to my changing interests 
 Archive of progress blog posts:
 
 * [Introduction](./hapticmotifs/hmpp0.md)
-* [Progress Post #1](./hmpp1.md)
-* [Progress Post #2](./hmpp2.md)
-* [Progress Post #3](./hmpp3.md)
-* ["Interaction is Problematic": ICIDS 2019 Update] (./hmpp03.md)
-* [Progress Post #4](./hmpp4.md)
-* [Progress Post #5](./hmpp5.md)
-* [Progress Post #6](./hmpp6.md)
-* [Progress Post #7](./hmpp7.md)
-* [Progress Post #8](./hmpp8.md)
+* [Progress Post #1](./hapticmotifs/hmpp1.md)
+* [Progress Post #2](./hapticmotifs/hmpp2.md)
+* [Progress Post #3](./hapticmotifs/hmpp3.md)
+* ["Interaction is Problematic": ICIDS 2019 Update] (./hapticmotifs/hmppicids.md)
+* [Progress Post #4](./hapticmotifs/hmpp4.md)
+* [Progress Post #5](./hapticmotifs/hmpp5.md)
+* [Progress Post #6](./hapticmotifs/hmpp6.md)
+* [Progress Post #7](./hapticmotifs/hmpp7.md)
+* [Progress Post #8](./hapticmotifs/hmpp8.md)
+* [Progress Post #9](./hapticmotifs/hmppfinal.md)
 
 Code demos:
 
