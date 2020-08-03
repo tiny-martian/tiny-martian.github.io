@@ -1,13 +1,13 @@
 # Haptic Motifs: Progress Post 7
 
-* May 12, 2020: At this point I wanted to start a new stage of this project, outlined below. It didn't go very far, but still had some pretty cool ideas. :) *
+*May 12, 2020: At this point I wanted to start a new stage of this project, outlined below. It didn't go very far, but still had some pretty cool ideas. :)*
 
 This post is an introduction to my new personal research project, which I’m informally calling “Haptic Motifs”. Read on for my inspiration/context, idea, and initial questions!
 
 ## Context & Idea
 So, good attention guiding can greatly improve the experience of a cinematic VR storytelling piece, but it can’t improve the story. I want to explore how a programmable vibrotactile headband could be used to do both.
 
-In my research project before Haptic Motifs, here, I looked into how head-mounted vibrotactile feedback could guide the attention of a user through a 360* video piece. By the end of the project, I was thinking about coding complex compositions of active and inactive motors, used to indicate the locations of points of interest in a video scene. This led me to think about using those compositions to indicate other aspects of a scene, including emotional themes… almost like a soundtrack.
+In my research project before Haptic Motifs, here, I looked into how head-mounted vibrotactile feedback could guide the attention of a user through a 360 video piece. By the end of the project, I was thinking about coding complex compositions of active and inactive motors, used to indicate the locations of points of interest in a video scene. This led me to think about using those compositions to indicate other aspects of a scene, including emotional themes… almost like a soundtrack.
 
 Cinematic soundtracks can contribute a lot of important and unique information to a story: setting a mood and sense of place, increasing or decreasing tension, describing individual characters with musical motifs. I’m curious about using a haptic composition to accomplish the same, while also providing attention guidance in a scene. There are many interesting research questions here, summarized by: How can emotional themes, character/event motifs, or points of interest be represented as sequences of vibrations on a headband, and how could those be designed to be effectively combined in larger compositions (“haptic soundtracks”) to accompany 360 content?
 
