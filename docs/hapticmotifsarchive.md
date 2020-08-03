@@ -1,18 +1,28 @@
-How can 360* video become more engaging to audiences through the use of nonconventional or alternative controller devices? During the 19-20 academic year, I created an independent research project for myself to explore the artistic, technical, and user experience aspects of this question. This is the most interdisciplinary project that I've ever worked on, and I found myself immersed in a crazy array of subjects: from interactive narrative design, to spatial audio production, to alternative controller fabrication, to 360* video cinematography, to browser-based VR coding, all the way to UX research. 
+**How can 360* video become more engaging to audiences through the use of nonconventional or alternative controller devices?**
+
+During the 19-20 academic year, I created an independent research project for myself to explore the artistic, technical, and user experience aspects of this question. This is the most interdisciplinary project that I've ever worked on, and I found myself immersed in a crazy array of subjects including: interactive narrative design, spatial audio production, alternative controller fabrication, 360* video cinematography, browser-based VR coding, & good ol' UX research. Over the course of the project, I attended the International Conference on Interactive Digital Storytelling and the Boulder International Film Festival, built a prototype of a vibrating headband that would communicate between A-Frame and Arduino and the proposal for an accompanying 360 video piece, amassed a decently impressive reading list, and had some incredible conversations with my mentors Daniel Leithinger and Amy Banic. 
+
+Due to some logistical complications from COVID-19 and to my changing interests as the project progressed, this was never "completed" in a traditional way. However, one of the biggest things I gained from this project is the knowledge that research doesn't need to be "finished" or have polished final deliverables to be valuable. This work has deeply shaped my perspective and curiousity about a complex and fascinating interdisciplinary space, and I had a lot of fun with it. 
+
 
 Archive of progress blog posts:
 
-* [Introduction](./hmdocs/hmpp0.md)
-* [Progress Post #1]
-* [Progress Post #2]
-* [Progress Post #3]
-* [Progress Post #4]
-* [Progress Post #5]
-* [Progress Post #6]
-* [Progress Post #7]
-* [Progress Post #8]
-* [Haptic Storytelling in VR: Case Study] (completed for another class and influenced by my work on this project)
-* [Final Progress Post and Reflections]
+* [Introduction](./hmpp0.md)
+* [Progress Post #1](./hmpp1.md)
+* [Progress Post #2](./hmpp2.md)
+* [Progress Post #3](./hmpp3.md)
+* [Progress Post #4](./hmpp4.md)
+* [Progress Post #5](./hmpp5.md)
+* [Progress Post #6](./hmpp6.md)
+* [Progress Post #7](./hmpp7.md)
+* [Progress Post #8](./hmpp8.md)
 
+Code demos:
+
+Other:
+
+* [Haptic Storytelling in VR: Case Study] (completed for another class and influenced by my work on this project)
 * [Reading List]
 * [Viewing List]
+
+This project was funded by a Undergraduate Research Opportunities Program (UROP) grant for the 2019-2020 academic year and additionally received the Savit Scholarship from the same program as an outstanding interdisciplinary proposal. UROP makes it possible for undergraduate students from all colleges at CU Boulder to lead independent research projects. The generous support of UROP, the Savit family, and the ATLAS Institute THING Lab is highly appreciated.
