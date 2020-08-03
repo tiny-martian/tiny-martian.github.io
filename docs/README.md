@@ -1,4 +1,4 @@
-The world's foremost collection of stuff [Lillie Bahrami](www.lilliebahrami.com) has typed!
+The world's foremost collection of typing by [Lillie Bahrami](www.lilliebahrami.com)!
 
 Archives:
 
