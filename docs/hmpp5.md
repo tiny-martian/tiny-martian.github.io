@@ -1,6 +1,6 @@
 # Haptic Motifs Progress Post #5
 
-* March 20, 2020: Updates and a new plan, after a posting hiatus (I was working on artistic prototypes for my personal project, which unfortunately fell through due to COVID.)*
+*March 20, 2020: Updates and a new plan, after a posting hiatus (I was working on artistic prototypes for my personal project, which unfortunately fell through due to COVID.)*
 
 ## Updates & Plan
 Over the last few months, I’ve been:
@@ -23,7 +23,8 @@ So what now? These are the next steps I can think of that are easy for me to do 
 * Finish my rough draft and send it out for feedback
 * Order more motors from Sparkfun, get some velcro, make a basic headband, and hook it all up to Unity
 * Get some more fun 360* video shots!
-* Arduino and Vibrating Motors Test
+
+## Arduino and Vibrating Motors Test
 
 Two vibrating motors connected to an Arduino making funny noises.
 
