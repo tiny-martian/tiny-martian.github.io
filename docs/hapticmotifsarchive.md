@@ -7,7 +7,7 @@ Due to some logistical complications from COVID-19 and to my changing interests 
 
 Archive of progress blog posts:
 
-* [Introduction](./hmpp0.md)
+* [Introduction](./hapticmotifs/hmpp0.md)
 * [Progress Post #1](./hmpp1.md)
 * [Progress Post #2](./hmpp2.md)
 * [Progress Post #3](./hmpp3.md)
