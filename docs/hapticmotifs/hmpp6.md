@@ -13,11 +13,11 @@ Prototype circuit:
 
 ![Prototype circuit](./IMG_9363.jpg)
 
-*There was a LOT of soldering and wire cutting in my future at this point. *
+*There was a LOT of soldering and wire cutting in my future at this point.*
 
 The final headband:
 
-![Girl wearing velcro band around her head with tiny, janky motors stuck onto it. Text: "I should be a fashion major".](./IMG_9369.jpg)
+![Girl wearing velcro band around her head with tiny, janky motors stuck onto it. Text: I should be a fashion major.](./IMG_9369.JPG)
 ![Final headband, with Arduino, motors and wiring](./IMG_9371.jpg)
 ![Detail of headband motors.](./IMG_9375.jpg)
 
