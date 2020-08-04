@@ -38,14 +38,13 @@ The user will experience all of this from the perspective of the hostess’ 360*
 * Throughout all of this, the inner thoughts of guests and the hostess will provide more context and clues about the storyworld, events, and potential identity of the user.
 
 ### Storyboarding Example
-In the slideshow below, I’ve done some rough storyboarding (more like choreography) of the first few plot points. The diagrams represent top-down views of the shots (based on the layout of my apartment, where I assume this will be taking place.) The pink dot is the hostess, and the blue dots are guests. The grey circle represents the “mind-reading radius” of the camera, and dots with red borders are within the mind-reading radius. Therefore, their thoughts can be listened to if they are selected by the user.
+In the images below, I’ve done some rough storyboarding (more like choreography) of the first few plot points. The diagrams represent top-down views of the shots (based on the layout of my apartment, where I assume this will be taking place.) The pink dot is the hostess, and the blue dots are guests. The grey circle represents the “mind-reading radius” of the camera, and dots with red borders are within the mind-reading radius. Therefore, their thoughts can be listened to if they are selected by the user.
 
-
-
-
-
-
-
+![Story image 1](./CVR-storyboards1-01.png)
+![Story image 1](./CVR-storyboards1-02.png)
+![Story image 1](./CVR-storyboards1-03.png)
+![Story image 1](./CVR-storyboards1-04.png)
+![Story image 1](./CVR-storyboards1-05.png)
 
 
 I’ll be completing more storyboards like this, and potentially storyboards from other perspectives, over the next month. In addition, I’ll be writing out an official script.
@@ -61,8 +60,9 @@ The success of this approach is going to depend on my attention guiding techniqu
 
 The device I build to convey information about the locations of POIs around a circle will probably need to be circular itself. My current thought is to build a headband, collar, or bracelet with small vibrating elements embedded throughout it. These elements will be updated by a microcontroller controlled by a game engine keeping track of the user’s current direction of view and the current locations of POIs. As the user turns their head, these will update in real time.
 
+![Headband and bracelet sketches](./IMG_7820-2.jpg)
+*Sketches of headband from front and back, bracelet*
 
-### Sketches of headband from front and back, bracelet
 While everything I’ve described up to this point is my most concrete and actionable plan yet, I’m still left with…
 
 ## An Overwhelming Pile of Questions
