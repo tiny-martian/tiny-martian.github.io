@@ -26,7 +26,7 @@ So what now? These are the next steps I can think of that are easy for me to do 
 
 ## Arduino and Vibrating Motors Test
 
-Two vibrating motors connected to an Arduino making funny noises.
+Two vibrating motors connected to an Arduino making funny noises. [Video here](https://vimeo.com/399251443)
 
 `void setup() {
   pinMode(2, OUTPUT);
