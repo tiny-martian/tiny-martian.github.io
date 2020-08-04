@@ -21,6 +21,6 @@ During the 19-20 academic year, I created an independent research project for my
 ## Other:
 
 * [Haptic Storytelling in VR: Case Study](https://docs.google.com/document/d/1DYNdV5aFa_ElzzqfPAxN3j14DIxeCL8B87GQLjYEYuQ/edit?usp=sharing) (completed for another class as preparation for my Capstone and influenced by my work on this project)
-* [Reading List and Reviews](./hapticmotifs/hmpprr.md)
+* [Reading List and Reviews](./hapticmotifs/hmrr.md)
 
 This project was funded by a Undergraduate Research Opportunities Program (UROP) grant for the 2019-2020 academic year and additionally received the Savit Scholarship from the same program as an outstanding interdisciplinary proposal. UROP makes it possible for undergraduate students from all colleges at CU Boulder to lead independent research projects. The generous support of UROP, the Savit family, and the ATLAS Institute THING Lab is highly appreciated.
