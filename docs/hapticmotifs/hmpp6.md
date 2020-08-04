@@ -2,7 +2,7 @@
 
 *April 7, 2020: Headband prototype and initial prototype code*
 
-##Headband Prototype
+## Headband Prototype
 In this update, I started the development of the headband itself (better late than never!) and looked into sensation and perception on the surface of the head.
 
 The headband prototype consists of nine motors wired to an Arduino, secured to the surface of a headband with Velcro tape. The Arduino is connected to my laptop with a long USB cord, for power and serial data.
@@ -11,15 +11,17 @@ While my original thought with the Velcro was to make the motors easy to rearran
 
 Prototype circuit:
 
+![Prototype circuit](./IMG_9363.jpg)
 
-There was a LOT of soldering and wire cutting in my future at this point. 
+*There was a LOT of soldering and wire cutting in my future at this point. *
 
 The final headband:
 
+![Girl wearing velcro band around her head with tiny, janky motors stuck onto it. Text: "I should be a fashion major".](./IMG_9363.jpg)
+![Final headband, with Arduino, motors and wiring](./IMG_9371.jpg)
+![Detail of headband motors.](./IMG_9375.jpg)
 
-
-
-“So what did you do in quarantine?” “Well…”
+*“So what did you do in quarantine?” “Well…”*
 
 Right now I’m writing code for some little tests of how different combinations of active motors feel to my head. I’m most interested in how different animations and combinations of non-neighboring motors feel.
 
