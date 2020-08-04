@@ -1,3 +1,5 @@
+# La Fantasma
+
 Algunos dijeron que en los años posteriores al golpe de Pinochet, una mujer vestida rigurosamente de negro era la que andaba buscando al poeta chileno. Nunca le vieron la cara y les producía escalofríos su silueta. Estuvo tras él por los pueblos y ciudades de la Costa Azul, por los balnearios del norte de Italia, por las barriadas de Niza y las peligrosas callejuelas de Génova. “Por ahí paso la muerte tantas veces.” Lo buscaba en las pensiones, las tabernas donde se bebe el vino amargo del exilio, creyó encontrarlo en la playa, pero “la viuda negra”, como llaman a esa entidad misteriosa los pescadores, lo pierde entre la multitud de bañistas, lo sigue hasta las estaciones de ferrocarril y lo sorprende dentro de un tren a punto de partir, mientras el joven poeta está escribiendo el primer verso de un poema que nunca terminará, pues algo altera el curso de los acontecimientos y sus ojos se abren tan grandes como su boca y el lápiz cae asombrado dejando a medio camino la frase “Yo no he sabido nunca de su historia…”
 
 <<Gitano.>>
