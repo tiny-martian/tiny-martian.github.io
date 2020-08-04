@@ -41,10 +41,10 @@ The user will experience all of this from the perspective of the hostess’ 360*
 In the images below, I’ve done some rough storyboarding (more like choreography) of the first few plot points. The diagrams represent top-down views of the shots (based on the layout of my apartment, where I assume this will be taking place.) The pink dot is the hostess, and the blue dots are guests. The grey circle represents the “mind-reading radius” of the camera, and dots with red borders are within the mind-reading radius. Therefore, their thoughts can be listened to if they are selected by the user.
 
 ![Story image 1](./CVR-storyboards1-01.png)
-![Story image 1](./CVR-storyboards1-02.png)
-![Story image 1](./CVR-storyboards1-03.png)
 ![Story image 1](./CVR-storyboards1-04.png)
+![Story image 1](./CVR-storyboards1-02.png)
 ![Story image 1](./CVR-storyboards1-05.png)
+![Story image 1](./CVR-storyboards1-03.png)
 
 
 I’ll be completing more storyboards like this, and potentially storyboards from other perspectives, over the next month. In addition, I’ll be writing out an official script.
