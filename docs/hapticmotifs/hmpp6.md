@@ -17,7 +17,7 @@ Prototype circuit:
 
 The final headband:
 
-![Girl wearing velcro band around her head with tiny, janky motors stuck onto it. Text: "I should be a fashion major".](./IMG_9363.jpg)
+![Girl wearing velcro band around her head with tiny, janky motors stuck onto it. Text: "I should be a fashion major".](./IMG_9369.jpg)
 ![Final headband, with Arduino, motors and wiring](./IMG_9371.jpg)
 ![Detail of headband motors.](./IMG_9375.jpg)
 
