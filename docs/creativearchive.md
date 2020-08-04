@@ -8,10 +8,10 @@
 
 # Escritura en español
 
-*Stories written in a creative writing class I took in Chile! This class was one of the more challenging parts of my study abroad experience: not only was I writing weekly prose assignments in my second language, but I was delivering them to probably the oldest, most prejudiced professor at the school. Someday I'll write a spicy memoir about this class, but for now these stories are all I have to prove I was there.*
+*Stories written in a creative writing class I took in Chile!*
 
-1. ["Amarga"]
-2. ["La Perla"] *For this assignment, I was instructed to find the equivalent location described in a historical passage about Valparaíso and write my own description. The location: a forge. The result: a memorable and eventually delightful afternoon of hunting down a modern-day forge in one of Valpo's sketchiest neighborhoods.*
-2. ["El Despertar"]
-3. ["Primera Cita"]
-4. ["La Fantasma"]   *I still can't tell if something was lost in translation here. Nuestro querido profe gave each of us a cryptic paragraph that he had written and commanded us to finish their stories, and then graded us poorly when we didn't finish them as he would have. Of course none of us did, and luckily this was our final assignment.*
+1. ["Amarga"](./creativewriting/amarga.md)
+2. ["La Perla"](./creativewriting/laperla.md) *For this assignment, I was instructed to find the equivalent location described in a historical passage about Valparaíso and write my own description. The location: a forge. The result: a memorable and eventually delightful afternoon of hunting down a modern-day forge in one of Valpo's sketchiest neighborhoods.*
+2. ["El Despertar"](./creativewriting/eldespertar.md)
+3. ["Primera Cita"](./creativewriting/primeracita.md)
+4. ["La Fantasma"](./creativewriting/lafantasma.md)
