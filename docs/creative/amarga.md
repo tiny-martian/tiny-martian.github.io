@@ -1,4 +1,4 @@
-#Amarga
+# Amarga
 
 Comí el chocolate de tus manos y la palabra de tus labios. Los dos se derritieron en mi boca y en mis pensamientos: la palabra oscura dicha con voz hermosa y el lingote oscuro de suave chocolate. Saboree cada sílaba.
 
