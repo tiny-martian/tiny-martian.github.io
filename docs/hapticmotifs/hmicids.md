@@ -1,3 +1,4 @@
+# "Well, Interaction is just Problematic": ICIDS 2019
 *November 20, 2019*
 
 Thanks to my Undergraduate Research Opportunities Program funding, I was able to attend my first academic conference ever in November! ICIDS 2019 (the International Conference for Interactive Digital Storytelling) is the weirdest and most fantastic conference I think I could have picked to start out with. ICIDS is so unusual and awesome because it’s incredibly multidisciplinary. Over the week, I listened to presentations about topics as diverse as database programming and fandom culture, went to both a poster gallery and an art exhibit, and had some incredibly free-range conversations.
