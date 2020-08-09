@@ -12,7 +12,7 @@ This research project is focused on the following question:
 
 **How can 360 video become more engaging to audiences through the use of nonconventional or alternative controller devices?**
 
-To explore this topic, I plan to design and build a nonconventional controller device for a 360* video piece that allows the user to have dramatically meaningful and engaging interactions with the content. Link to proposal [here!]https://docs.google.com/document/d/10u5PVBVAuj2Qi0cdqQ2EqBqLyPIk7T1ibRF5jVdosbo/edit
+To explore this topic, I plan to design and build a nonconventional controller device for a 360* video piece that allows the user to have dramatically meaningful and engaging interactions with the content. Link to proposal [here!](https://docs.google.com/document/d/10u5PVBVAuj2Qi0cdqQ2EqBqLyPIk7T1ibRF5jVdosbo/edit?usp=sharing)
 
 ## Schedule
 
