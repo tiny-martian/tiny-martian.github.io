@@ -5,13 +5,13 @@ AFRAME.registerComponent('arrow-key-rotation', {
     dy: {default: 2.0},
   },
   
-  const serialLEDController = new SerialLEDController();
+  /*const serialLEDController = new SerialLEDController();
     const connect = document.getElementById('connect-to-serial');
     const getSerialMessages = document.getElementById('get-serial-messages');
     /*
     const messageForm = document.getElementById('message-form');
     const messageInput = document.getElementById('message-input');
-    const submitButton = document.getElementById('submit-button');*/
+    const submitButton = document.getElementById('submit-button');
     const serialMessagesContainer = document.getElementById('serial-messages-container');
   
 
@@ -71,8 +71,8 @@ AFRAME.registerComponent('arrow-key-rotation', {
   tick: function (t, dt) {
     /* Send Timecode to Arduino */
     var myElement = document.getElementById("video");
-    //console.log(myElement.currentTime);
-    serialLEDController.write(myElement.currentTime);
+    console.log(myElement.currentTime);
+    //serialLEDController.write(myElement.currentTime);
     
     if (!this.data.enabled) { return; }
     var rotation = this.el.getAttribute('rotation');
