@@ -18,8 +18,8 @@ During the 19-20 academic year, I created an independent research project for my
 * [Progress Post #8](./hapticmotifs/hmpp8.md)
 
 ## Code demos:
-* [Initial Arduino & headband tests](./hapticmotifs/arduinotest.ino)
-* [A-Frame & Web Serial API demo (unfinished)](./hapticmotifs/aframe/test.html)
+* [Initial Arduino & headband tests](./hapticmotifs/hmpp6.md)
+* [A-Frame & Web Serial API demo (unfinished)](https://github.com/tiny-martian/tiny-martian.github.io/tree/master/haptic-motifs)
 
 ## Other:
 
