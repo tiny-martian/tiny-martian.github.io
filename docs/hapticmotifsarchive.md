@@ -2,7 +2,7 @@
 
 During the 19-20 academic year, I created an independent research project for myself to explore the artistic, technical, and user experience aspects of this question. This is the most interdisciplinary project that I've ever worked on, and I found myself immersed in a crazy array of subjects including: interactive narrative design, spatial audio production, alternative controller fabrication, 360 video cinematography, browser-based VR coding, & good ol' UX research. Over the course of the project, I attended the International Conference on Interactive Digital Storytelling and the Boulder International Film Festival, built a prototype of a vibrating headband that would communicate between A-Frame and Arduino and the proposal for an accompanying 360 video piece, amassed a decently impressive reading list, and had some incredible conversations with my mentors Daniel Leithinger and Amy Banic. 
 
-**[Project Summary and Final Reflections](./hapticmotifs/hmppfinal.md)**
+**[Project Summary and Final Reflections](./hapticmotifs/hmfinal.md)**
 
 ## Archive of progress blog posts:
 
