@@ -10,4 +10,4 @@ Projects:
 
 * [So Cold: VR Dance Video]
 * [Haptic Motifs Web Demo]
-* [The Glacier: Hypertext Narrative]((./glacier/index.html)
+* [The Glacier: Hypertext Narrative](./glacier/index.html)
