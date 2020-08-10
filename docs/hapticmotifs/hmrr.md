@@ -48,7 +48,7 @@ Do active decisions defeat the purpose of watching a movie?
 
 Overview: High-level study of narrative design needs and screenwriting challenges in 360*. Good to remember that users aren’t necessarily looking for strong interactivity. How to preserve voyeurism, relaxation, escapism while also making viewing experience more active?
 
-###Directing for Cinematic VR (John Mateer)
+### Directing for Cinematic VR (John Mateer)
 CVR: Immersive linear experience (no interaction), OR branching paths, OR multimedia overlay onto content
 
 “Watching a video of a play”– think Munsterberg. How to evolve artistically?
@@ -83,7 +83,7 @@ Overview: High-level discussion of traditional theory as it pertains to a new vi
 * https://blog.adafruit.com/2017/07/12/what-happens-when-you-combine-vr-with-biofeedback-wearablewednesday/ Biofeedback in VR environment: pulse sensor on finger, breathing sensor means the rhythms of your body affect the environment
 * http://extendedplay.thecivilians.org/draw-me-close-brings-the-national-theatre-and-national-film-board-of-canada-together-at-tribeca-42817/ Live actor holds your hand, motion-capture system that lets you “color” with a marker and connect the real objects in the room with the virtual space
 
-###Interactive Cinema: Engagement and Interaction (Vosmeer and Schouten)
+### Interactive Cinema: Engagement and Interaction (Vosmeer and Schouten)
 Various methods of implementing interactive storytelling: branching, adaptive, enactive.
 
 Distinction between using a game engine and pre-recording content as two modes of 360* production. Why not both?
