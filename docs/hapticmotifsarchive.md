@@ -1,6 +1,6 @@
 **How can 360 video become more engaging to audiences through the use of nonconventional or alternative controller devices?**
 
-During the 19-20 academic year, I created an independent research project for myself to explore the artistic, technical, and user experience aspects of this question. This archive holds the results!
+During the 19-20 academic year, I created an independent research project for myself to explore the artistic, technical, and user experience aspects of this question. This archive documents that journey!
 
 **[Project Summary and Final Reflections](./hapticmotifs/hmfinal.md)**
 
