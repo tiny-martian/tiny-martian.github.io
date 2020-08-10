@@ -1,2 +1,0 @@
-#Haptic Motifs Blog Posts
-
