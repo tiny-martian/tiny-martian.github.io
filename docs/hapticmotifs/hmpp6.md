@@ -25,6 +25,7 @@ The final headband:
 
 Right now I’m writing code for some little tests of how different combinations of active motors feel to my head. I’m most interested in how different animations and combinations of non-neighboring motors feel.
 
+```
 void testAnimations(){
 
   //1. across forehead
@@ -170,5 +171,6 @@ void testAllMotors (){
   digitalWrite(13, LOW);
   delay(5000);
 }
+```
 
 As for research, I struggled this week to find a diagram or paper describing sensitivity and tactile perception across the surface of the head. Perhaps I’m missing the right search terms.
