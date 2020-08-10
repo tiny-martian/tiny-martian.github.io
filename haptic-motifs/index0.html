@@ -1,3 +1,10 @@
+<!-- Adapted from this Web Serial demo: https://dev.to/unjavascripter/the-amazing-powers-of-the-web-web-serial-api-3ilc
+     as well as this A-frame videosphere demo: https://aframe.io/docs/1.0.0/primitives/a-videosphere.html
+     This code sets up an A-frame scene with a 360 video playing, a script that captures its timecode, 
+     and a Web Serial API script that communicates with an Arduino. Enter 0 or 1 to turn off the onboard LED.
+     Project documentation can be found at https://tiny-martian.github.io/hapticmotifs/hmfinal.md -->
+
+
 <!DOCTYPE html>
 <html>
   <!-- Serial API-->
@@ -22,12 +29,10 @@
       -->
      <button id="connect-to-serial">Connect to serial port</button>
      <button id="get-serial-messages">Get serial messages</button>
-    <!--
-     <div>
       <form id="message-form">
-        <!-- this holds the text submitted --> <!--
+        <!-- this holds the text submitted --> 
         <input type="text" id="message-input" disabled="true"> 
-        <!-- this fires the submit event --> <!--
+        <!-- this fires the submit event --> 
         <button type="submit" id="submit-button" disabled="true">Send</button>
       </form>
     </div> -->
@@ -46,8 +51,7 @@
     <!-- AFRAME scene
 *************************************
       -->
-    
-    <!-- As if this Glitch were a typical HTML CodePen... -->    
+      
     <script src="https://aframe.io/releases/0.7.1/aframe.min.js"></script>
     
     <!-- Use components defined in separate files. -->
