@@ -1,0 +1,191 @@
+/* background + svg positioning */
+
+body {
+    background-color: black;
+}
+
+.svg-wrapper {
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+/* Styling colors */
+
+.white {
+    color : #FFFFFF;
+    fill: #FFFFFF;
+}
+
+.pearl {
+    color: #EABEA0;
+    fill: #EABEA0;
+}
+
+.tangerine {
+    color: #F4863B;
+    fill: #F4863B;
+}
+
+.orange {
+    color: #F27019;
+    fill: #F27019;
+}
+
+/*Styling fonts & animations*/
+
+.mainstyle {
+    font-family : Bely;
+	font-size : 15px;
+}
+
+.ministyle {
+    font-family : Bely;
+	font-size : 11px;
+    font-style: italic;
+}
+
+.style1 {
+    font-family : IvyPresto Display;
+	font-size : 15px;
+}
+
+.style2
+{
+	font-family : IvyPresto Display;
+	font-weight : bold;
+	font-size : 26px;
+}
+
+@keyframes anim-1
+{
+	0%, 7% { opacity: 0; }
+	7%, 50% { opacity: 1; }
+	50%, 100% { opacity: 0; }
+}
+
+.style3
+{
+
+    animation-name: anim-1;
+    animation-duration: 7.5s;
+    animation-iteration-count: infinite;
+	animation-timing-function: ease-in-out;
+
+	animation-direction: normal;
+	animation-fill-mode: forwards;
+	animation-play-state: running;
+
+    font-family: IvyPresto Display;
+    font-size : 16px;
+    letter-spacing: 0.2px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.style3:hover {
+animation-play-state: paused;
+}
+
+.style4
+{
+    animation-name: anim-1;
+    animation-duration: 7.5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+
+    animation-direction: normal;
+    animation-fill-mode: forwards;
+    animation-play-state: running;
+
+    animation-delay: 0.5s;
+
+    font-family: IvyPresto Display;
+    letter-spacing: 1px;
+    font-size : 18px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.style4:hover {
+animation-play-state: paused;
+}
+
+.style5
+{
+    animation-name: anim-1;
+    animation-duration: 7.5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+
+    animation-direction: normal;
+    animation-fill-mode: forwards;
+    animation-play-state: running;
+    animation-delay: 1.5s;
+
+    font-family: IvyPresto Display;
+    letter-spacing: 2.2px;
+    font-size : 22px;
+    font-style: italic;
+}
+
+.style5:hover {
+animation-play-state: paused;
+}
+
+.style6
+{
+    animation-name: anim-1;
+    animation-duration: 7.5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+
+    animation-direction: normal;
+    animation-fill-mode: forwards;
+    animation-play-state: running;
+    animation-delay: 2.5s;
+
+    font-family: IvyPresto Display;
+    letter-spacing: 1px;
+    font-size : 27px;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.style6:hover {
+animation-play-state: paused;
+}
+
+.style7
+{
+    animation-name: anim-1;
+    animation-duration: 7.5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+
+    animation-direction: normal;
+    animation-fill-mode: forwards;
+    animation-play-state: running;
+    animation-delay: 3.5s;
+
+    font-family: IvyPresto Display;
+    letter-spacing: 2px;
+    font-size : 32px;
+    font-weight: 700;
+    font-style: italic;
+
+
+}
+
+.style7:hover {
+animation-play-state: paused;
+}
+
+.style8
+{
+    font-family: IvyPresto Display;
+    font-size : 50px;
+    font-weight: bold;
+    font-style: italic;
+}
