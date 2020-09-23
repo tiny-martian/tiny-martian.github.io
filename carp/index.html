@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+
+<!--Lillie Bahrami
+    Fall '20 Typography, Prof. Joel Swanson
+    SVG reference code: https://css-tricks.com/
+-->
+
+<html>
+    <head>
+      <link rel="stylesheet" href="https://use.typekit.net/hvc4tif.css">
+      <link rel="stylesheet" href="carp.css">
+      <title>A carp?</title>
+    </head>
+
+    <body>
+
+        <!--All of the text is defined inside a <svg> tag, therefore perfectly responsive. Viewbox allocates space for the <svg> on the page-->
+
+        <div class="svg-wrapper">
+        <svg viewBox="-50 -50 450 850">
+
+          <!-- definitions of paths for curved text. exported from Illustrator, transparent fill hides the path, transform places them in the canvas -->
+          <path id="curve1" fill = "transparent" d="M371.8,410.17a28.45,28.45,0,0,1-11.61,53.91" transform="translate(-235.76 -158.57)"/>
+          <path id="curve2" fill = "transparent" d="M336.79,450a45.75,45.75,0,1,0-30.37,80" transform="translate(-219 -158)"/>
+          <path id="curve3" fill = "transparent" d="M342.32,530.5c0,31.76,25.15,57.5,56.18,57.5s56.18-25.74,56.18-57.5" transform="translate(-240.82 -182.5)"/>
+          <path id="curve4" fill = "transparent" d="M410,586.6A89.56,89.56,0,0,1,547.13,701.18" transform="translate(-230.09 -240.5)"/>/>
+          <path id="curve5" fill = "transparent" d="M526,650.27A127.83,127.83,0,0,0,387.54,847.93" transform="translate(-220.09 -215.5)"/>
+
+          <!-- opening paragraphs: not set on paths -->
+          <text x="0" y="0" class="mainstyle white"> ...(Next,) The ancient brazier hummed with xtremely modern </text>
+          <text x="0" y="20"class="mainstyle white"> circuitry. A sphere of dark sheen and refraced silence xpanded </text>
+          <text x="0" y="40" class="mainstyle white">  until it filled the parlor, aquifying the kitchen noises. Lastly, </text>
+          <text x="0" y="60" class="mainstyle white"> a piebald light above the brazier morphed into a carp.</text>
+          <text x="0" y="100" class="mainstyle white"> A carp?</text>
+          <text x="200" y="100" class="ministyle white"> Hover over any element to pause animation</text>
+
+          <!--POETIC SECTION-->
+
+          <text x="0" y="180" class="style1 white"> A</text>
+          <circle cx="70" cy="175" r="40" stroke="white" stroke-width="1" fill="black" />
+          <text x="40" y="180" class="style2 tangerine"> carp,</text>
+          <text x="40" y="250" class="style1 white">as in the fish.   A</text>
+
+          <!--curvy stuff: textPaths linked to paths defined above-->
+          <text class="style3 tangerine">
+            <textPath alignment-baseline="top" xlink:href="#curve1">
+              numinous,
+            </textPath>
+          </text>
+
+          <text class="style4 orange">
+            <textPath alignment-baseline="top" xlink:href="#curve2">
+              pearl- and- tangerine,
+            </textPath>
+          </text>
+
+          <text class="style5 pearl">
+            <textPath alignment-baseline="top" xlink:href="#curve3">
+              fungus- blotted,
+            </textPath>
+          </text>
+
+          <text class="style6 white">
+            <textPath alignment-baseline="top" xlink:href="#curve4">
+              mandarin- whiskered,
+            </textPath>
+          </text>
+
+          <text class="style7 orange">
+            <textPath alignment-baseline="top" xlink:href="#curve5">
+              half- meter- long
+            </textPath>
+          </text>
+
+          <!--no more curves -->
+          <circle cx="275" cy="560" r="80" stroke="white" stroke-width="1" fill="black" />
+          <text x = "215" y = "575" class="style8 tangerine"> carp. </text>
+
+          <!-- ending paragraph -->
+          <text x="0" y="690" class="mainstyle white"> One lazy slap of its tail propelled the fish toward me. Roots</text>
+          <text x="0" y="710" class="mainstyle white"> of water lilies parted as it moved. Its ancient eyes read mine,</text>
+          <text x="0" y="730" class="mainstyle white"> its lateral fins rippled. The carp sank a few centimeters to</text>
+          <text x="0" y="750" class="mainstyle white"> read my collar, and I heard my name spoken by an old man.</text>
+          <text x="0" y="790" class="ministyle white"> from "An Orison of Sonmi-451", Cloud Atlas, by David Mitchell. Styled && coded by Lillie Bahrami</text>
+
+      </svg>
+    </div>
+    </body>
+</html>
