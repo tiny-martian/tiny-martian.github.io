@@ -8,4 +8,5 @@ Archives:
 
 Projects:
 
-* [The Glacier: Hypertext Narrative](./glacier/index.html)
+<!---* [The Glacier: Hypertext Narrative](./glacier/index.html)--->
+* [6:1 WebVR Dance Video] (./socold/index.html)
