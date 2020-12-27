@@ -6,7 +6,7 @@ Archives:
 <!---* [Immersive Storytelling Analysis & Reviews](./immersivearchive.md): my sometimes euphoric, sometimes salty writing related to immersive and     interactive storytelling.--->
 * [Creative Writing](./creativearchive.md).
 
-Projects:
+<!---Projects:
 
-<!---* [The Glacier: Hypertext Narrative](./glacier/index.html)--->
-* [6:1 WebVR Dance Video] (./socold/index.html)
+<!---* [The Glacier: Hypertext Narrative](./glacier/index.html)
+* [6:1 WebVR Dance Video] (./socold/index.html)--->
