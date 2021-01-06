@@ -1,9 +1,12 @@
+<!-- Lillie Bahrami, 2020
+     See VRscript.js for further details -->
+
 <!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>Getting Started with Three.js</title>
+  <title>6:1 VR</title>
   <style>
 			#container {
 				background: #000;
@@ -13,11 +16,13 @@
   </style>
 </head>
 <body>
+  <!-- Three.JS scene goes here -->
   <div id="container">
   </div>
 </body>
 
-<!--Custom Shader Code -->
+<!--Custom GLSL Shader Scripts
+    Reference: https://stemkoski.github.io/Three.js/Shader-Fireball.html-->
 <script id="vertexShader" type="x-shader/x-vertex">
 varying vec2 vUv;
 void main()
@@ -27,7 +32,6 @@ void main()
 }
 </script>
 
-<!-- Shader -->
 <script id="fragmentShader" type="x-shader/x-vertex">
 uniform sampler2D baseTexture;
 uniform float baseSpeed;
@@ -48,11 +52,11 @@ void main()
 }
 </script>
 
-<!-- Import JQeury -->
+<!-- Import JQuery -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
-
+<!-- Additional scripts -->
 <script src = "scripts/three.min.js"></script>
-<script src = "scripts/myscript.js"></script>
+<script src = "scripts/socoldVRscript.js"></script>
 
 
 </html>
