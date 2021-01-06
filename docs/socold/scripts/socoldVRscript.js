@@ -112,7 +112,7 @@ initScene = function() {
         vids[i] = document.createElement( 'video' );
         vids[i].width = vids[i].height = 40;
         vids[i].loop = vids[i].muted = true;
-        vids[i].src = vidsrc[i];
+        vids[i].src = vidSrc[i];
         vids[i].setAttribute( 'webkit-playsinline', 'webkit-playsinline' ); //no fullscreen
         vids[i].load();
 
