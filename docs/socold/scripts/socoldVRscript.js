@@ -122,10 +122,10 @@ initScene = function() {
         vidTex[i].format = THREE.RGBFormat;
 
         // Create material from texture
-        vidMat[i] = new THREE.MeshBasicMaterial({ map: faceTexture, side: THREE.DoubleSide});
+        vidMat[i] = new THREE.MeshBasicMaterial({ map: vidTex[i], side: THREE.DoubleSide});
 
         // Instantiate plane with video material
-        childPlanes[i]= new THREE.Mesh( cpGeometry, faceMaterial );
+        childPlanes[i]= new THREE.Mesh( cpGeometry, vidMat[i] );
 
         //Orient plane
         switch (i) {
