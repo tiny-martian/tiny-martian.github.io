@@ -112,7 +112,7 @@ initScene = function() {
         vids[i] = document.createElement( 'video' );
         vids[i].width = vids[i].height = 40;
         vids[i].loop = vids[i].muted = true;
-        vids[i].src = vidsrc[i];
+        vids[i].src = vidSrc[i];
         vids[i].setAttribute( 'webkit-playsinline', 'webkit-playsinline' ); //no fullscreen
         vids[i].load();
 
@@ -122,10 +122,10 @@ initScene = function() {
         vidTex[i].format = THREE.RGBFormat;
 
         // Create material from texture
-        vidMat[i] = new THREE.MeshBasicMaterial({ map: faceTexture, side: THREE.DoubleSide});
+        vidMat[i] = new THREE.MeshBasicMaterial({ map: vidTex[i], side: THREE.DoubleSide});
 
         // Instantiate plane with video material
-        childPlanes[i]= new THREE.Mesh( cpGeometry, faceMaterial );
+        childPlanes[i]= new THREE.Mesh( cpGeometry, vidMat[i] );
 
         //Orient plane
         switch (i) {
@@ -179,7 +179,7 @@ initScene = function() {
         sound.setRefDistance( 20 );
     });
     sphere.add(sound);
-    sound.play();
+    //sound.play();
 
     //begin playback
     var j = 0;
