@@ -37,11 +37,11 @@ initScene = function() {
     renderer = new THREE.WebGLRenderer( { antialias: true } );
     renderer.setPixelRatio( window.devicePixelRatio );
     renderer.setSize( WIDTH, HEIGHT );
-    renderer.vr.enabled = true;
+    //renderer.vr.enabled = true;
 
     //Place scene on webpage
     container.appendChild( renderer.domElement );
-    document.body.appendChild( WEBVR.createButton( renderer ) ); //webVR button
+   // document.body.appendChild( WEBVR.createButton( renderer ) ); //webVR button
 
     /************ Create scene content (3D geometries) ************/
 
